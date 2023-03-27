@@ -1,0 +1,13 @@
+*{
+     margin: 0px; /* (*) serve para alterar todas as tags */
+     padding: 0px;
+     box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
